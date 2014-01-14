@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ServiceNAME">
+        <item >Google NEWS</item>
+        <item >NIKKEI</item>
+        <item >Yahoo!_Sports</item>
+        <item >Show_business</item>
+    </string-array>
+    <string-array name="ServiceUrl">
+        <item >http://news.google.com/news?hl=ja&amp;ned=us&amp;ie=UTF-8&amp;oe=UTF-8&amp;output=rss</item>
+        <item >http://feed.nikkeibp.co.jp/rss/nikkeibp/subject.rdf</item>
+        <item >feed://rss.dailynews.yahoo.co.jp/fc/sports/rss.xml</item>
+        <item >http://www.tv-asahi.co.jp/rss/geinou/geinou.xml</item>
+    </string-array>
+    
+</resources>
